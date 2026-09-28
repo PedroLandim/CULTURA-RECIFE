@@ -1,0 +1,6 @@
+# Publicar somente os arquivos da versão pública.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!veiculos_culturais.csv
